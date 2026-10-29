@@ -10,7 +10,7 @@ A hands-on project to practice Git and GitHub fundamentals including branching, 
 
 ## Getting Started
 
-Clone this repository and follow along with the Git and GitHub exercises.
+Clone this repository and follow along with the Git and GitHub exercises to learn version control.
 
 ```bash
 git clone https://github.com/finishedsarevsh/mcino-Introduction-to-Git-and-GitHub.git
