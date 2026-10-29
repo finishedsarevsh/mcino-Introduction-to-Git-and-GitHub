@@ -1,16 +1,17 @@
-# Introduction to Git and GitHub
+# mcino-Introduction-to-Git-and-GitHub
 
-## Simple Interest Calculator
+A hands-on project to practice Git and GitHub fundamentals including branching, merging, pull requests, and open-source contribution workflows as part of the IBM Developer Skills Network curriculum.
 
-A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+## Features
 
+- Demonstrates basic Git operations (commit, branch, merge, revert)
+- Includes a simple interest calculator shell script
+- Contains open-source community files (LICENSE, CODE_OF_CONDUCT, CONTRIBUTING)
+
+## Getting Started
+
+Clone this repository and follow along with the Git and GitHub exercises.
+
+```bash
+git clone https://github.com/finishedsarevsh/mcino-Introduction-to-Git-and-GitHub.git
 ```
-Input:
-   p, principal amount
-   t, time period in years
-   r, annual rate of interest
-Output
-   simple interest = p*t*r
-```
-
-_© 2022 XYZ, Inc._
