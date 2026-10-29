@@ -1,0 +1,10 @@
+﻿$ git branch -a
+  bug-fix-typo
+* main
+  remotes/origin/HEAD -> origin/main
+  remotes/origin/bug-fix-typo
+  remotes/origin/main
+
+$ git branch -vv
+  bug-fix-typo 435ecb7 Fix typo in README: add missing phrase in Getting Started section
+* main         435ecb7 [origin/main] Fix typo in README: add missing phrase in Getting Started section
